@@ -1,7 +1,16 @@
-# ?? Video to MP3 Telegram Bot
+# 🎬 Video to MP3 Telegram Bot
 
-Bu bot, Telegram ?zerinden videolar? ses dosyas?na (.mp3) d?n??t?r?r.
+Bu proje, Telegram üzerinden gönderilen video dosyalarını otomatik olarak sese (.mp3) dönüştüren bir bot çalışmasıdır.
 
-## ?? Kurulum
-1. pip install -r requirements.txt
-2. python bot.py
+## 🚀 Özellikler
+- **Asenkron Çalışma:** Hızlı ve eş zamanlı işlem kapasitesi.
+- **Bulut Uyumluluğu:** PythonAnywhere ve Colab testleri tamamlandı.
+- **Otomatik Temizlik:** İşlem bittiğinde geçici dosyalar sunucudan silinir.
+
+## 🔧 Kurulum
+1. `pip install -r requirements.txt`
+2. `bot.py` dosyasındaki TOKEN kısmını güncelleyin.
+3. `python bot.py` komutuyla botu başlatın.
+
+---
+**Geliştirici:** [clampgod1](https://github.com/clampgod1)
